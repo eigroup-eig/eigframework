@@ -1,6 +1,6 @@
-package com.eigframework.details
+package com.eigframework.core.details
 
-import com.eigframework.abs.CommunDetails
+import com.eigframework.core.abs.CommunDetails
 import java.time.LocalDate
 import java.util.*
 

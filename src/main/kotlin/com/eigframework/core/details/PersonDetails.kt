@@ -1,8 +1,8 @@
-package com.eigframework.details
+package com.eigframework.core.details
 
-import com.eigframework.abs.CommunDetails
-import com.eigframework.enums.Gender
-import com.eigframework.enums.PersonType
+import com.eigframework.core.abs.CommunDetails
+import com.eigframework.core.enums.Gender
+import com.eigframework.core.enums.PersonType
 import java.time.LocalDate
 import java.util.*
 

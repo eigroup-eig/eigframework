@@ -4,7 +4,7 @@ plugins {
     `maven-publish`
 }
 
-group = "com.eigframework"
+group = "com.eigframework.core"
 version = "1.0-SNAPSHOT"
 
 repositories {

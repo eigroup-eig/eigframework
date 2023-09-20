@@ -1,4 +1,4 @@
-package com.eigframework.enums
+package com.eigframework.core.enums
 
 enum class Address {
     BIRTH,LIFE;

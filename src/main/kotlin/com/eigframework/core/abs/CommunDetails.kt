@@ -1,4 +1,4 @@
-package com.eigframework.abs
+package com.eigframework.core.abs
 
 import java.time.LocalDate
 import java.util.UUID

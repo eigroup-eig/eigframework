@@ -1,4 +1,4 @@
-package com.eigframework
+package com.eigframework.core
 
 fun main(args: Array<String>) {
     println("Hello World!")
