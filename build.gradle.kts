@@ -1,6 +1,7 @@
 plugins {
     kotlin("jvm") version "1.9.0"
     application
+    `maven-publish`
 }
 
 group = "com.eigframework"
@@ -25,3 +26,4 @@ kotlin {
 application {
     mainClass.set("MainKt")
 }
+
